@@ -1,0 +1,5 @@
+C:\Users\srikanth\SalesTax\SalesTax\SalesTax\bin\Debug\SalesTax.exe
+C:\Users\srikanth\SalesTax\SalesTax\SalesTax\bin\Debug\SalesTax.pdb
+C:\Users\srikanth\SalesTax\SalesTax\SalesTax\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\srikanth\SalesTax\SalesTax\SalesTax\obj\Debug\SalesTax.exe
+C:\Users\srikanth\SalesTax\SalesTax\SalesTax\obj\Debug\SalesTax.pdb
